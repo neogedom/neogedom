@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinícius Gomes Ferreira
-- 👀 Actually I act as teacher in Distributed Systems and Software Analysis/Design, but my in my Ph.D. in progress I'm exploring Software Testing issues.
+- 👀 Actually I act as Tech Leader, but before I was professor in Distributed Systems and Software Analysis/Design.
 - 📫 Reach me trouhgh email in neogedom@gmail.com
 
 <!---
